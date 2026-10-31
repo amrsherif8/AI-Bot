@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+google-genai
+requests
+gTTS
+sympy
+numpy
+matplotlib
+pypdf
+charset-normalizer
+yt-dlp
+itsdangerous
